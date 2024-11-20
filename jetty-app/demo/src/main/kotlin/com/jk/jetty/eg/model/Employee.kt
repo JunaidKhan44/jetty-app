@@ -3,6 +3,10 @@ package com.jk.jetty.eg.model;
 import lombok.AllArgsConstructor
 import lombok.NoArgsConstructor
 
+/**
+ * @author Junaid.Khan
+ */
+
 @NoArgsConstructor
 @AllArgsConstructor
 data class Employee(
